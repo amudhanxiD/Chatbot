@@ -114,8 +114,3 @@ if __name__ == "__main__":
             except Exception as e:
                 print(e)
                 speak("Sorry boss, i could not send your email now")
-
-        
-
-        
-            
