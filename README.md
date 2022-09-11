@@ -1,4 +1,4 @@
-Fork this repository / Download the zip folder & extract in your system / simply copy & paste the code in a file & name it as Chatbot.py
+Fork this repository / Download the zip folder & extract it / simply copy & paste the code in a file & name it as Chatbot.py
 
 Next Open any code editor of your choice inside the project folder where you have Chatbot.py file
 
